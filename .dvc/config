@@ -1,0 +1,5 @@
+[core]
+    remote = dataset-track
+['remote "dataset-track"']
+    url = azure://CONTAINER_NAME/
+    account_name = ACCOUNT_NAME
